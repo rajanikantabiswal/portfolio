@@ -8,7 +8,7 @@ const Hero = () => {
         Rajanikanta Biswal
       </div>
       <p className="text-lg font-regular text-gray-300 leading-relaxed mt-8">
-        I'm a software engineer based in Toronto, Canada and also a
+        I'm a software engineer based in India, Canada and also a
         communication and journalism student. I enjoy creating things that live
         on the internet, whether that be websites, applications, or anything in
         between. I have been freelancing for a year now while studying at the
